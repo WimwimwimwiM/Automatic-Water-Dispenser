@@ -14,5 +14,5 @@ It is a prototype designed to be improved in the future because it currently out
 
 ## requirements
 - #include<stdlib.h>
-- #include <string.h>
+- #include <string.h> 
 
