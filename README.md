@@ -12,7 +12,7 @@ It is a prototype designed to be improved in the future because it currently out
 ## How to Use
 1. Clone this repository
 
-## Library use
+## requirements
 - #include<stdlib.h>
 - #include <string.h>
 
