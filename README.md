@@ -1,8 +1,7 @@
 # Automatic-Water-Dispenser
 
 ## Description
-Automatic water dispenser by C++ languages made to send to the professor. 
-It is a prototype designed to be improved in the future because it currently outputs to the command line.
+Automatic water dispenser by C++ languages This is a prototype designed to be improved in the future. Currently, it outputs results to the command line.
 
 ## Features
 - Sell/Buy item 
